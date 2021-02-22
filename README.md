@@ -4,5 +4,4 @@
 
 #### Interactive visualization is available at: https://covid-map.shangjielyu.com/
 
-![png](data/preview.png)
-
+![preview](data/preview.png)
