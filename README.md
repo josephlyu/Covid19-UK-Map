@@ -6,6 +6,8 @@
 
 ![preview](data/preview.png)
 
+---
+
 ### Data Sources
 
 [1] [COVID-19 UK API](https://coronavirus.data.gov.uk/details/developers-guide) by Public Health Englend (PHE) (*[Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)*)
